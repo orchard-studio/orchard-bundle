@@ -1,5 +1,5 @@
 <extensions>
-  <extension id="orchard-bundle">
+  <extension id="bundle">
     <name>Orchard Bundle</name>
     <version>1.0</version>
     <status>experimental</status>
