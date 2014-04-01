@@ -1,8 +1,15 @@
 <extensions>
-  <extension>
+  <extension id="orchard-bundle">
+    <name>Orchard Bundle</name>
+    <version>1.0</version>
+    <status>experimental</status>
     <link href="https://github.com/orchard-studio/jit_image_manipulation/zipball/integration"/>
-  </extension>
-  <extension>
     <link href="https://github.com/orchard-studio/useragent_details/zipball/integration"/>
+    <developer>
+      <name>Orchard</name>
+    </developer>
+    <compatibility>
+				<symphony version="2.3.6" use="1.21"/>
+			</compatibility>
   </extension>
 </extensions>
