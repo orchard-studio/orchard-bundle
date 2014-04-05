@@ -1,21 +1,10 @@
-<extensions>
-  <extension id="bundle">
-    <name>Orchard Bundle</name>
-    <version>1.0</version>
-    <status>experimental</status>
-    <link href="https://github.com/symphonycms/debugdevkit/zipball/master"/>
-    <link href="https://github.com/symphonycms/export_ensemble/zipball/master"/>
-	<link href="https://github.com/symphonycms/jit_image_manipulation/zipball/master"/>
-	<link href="https://github.com/symphonycms/maintenance_mode/zipball/master"/>
-	<link href="https://github.com/symphonycms/markdown/zipball/master"/>
-	<link href="https://github.com/symphonycms/profiledevkit/zipball/master"/>
-	<link href="https://github.com/symphonycms/selectbox_link_field/zipball/master"/>
-	<link href="https://github.com/symphonycms/xssfilter/zipball/master"/>
-    <developer>
-      <name>Orchard</name>
-    </developer>
-    <compatibility>
-				<symphony version="2.3.6" use="1.21"/>
-			</compatibility>
-  </extension>
-</extensions>
+<bundle>
+	<extension commit="https://github.com/symphonycms/debugdevkit"/>
+	<extension commit="https://github.com/symphonycms/export_ensemble"/>
+	<extension commit="https://github.com/symphonycms/jit_image_manipulation"/>
+	<extension commit="https://github.com/symphonycms/maintenance_mode"/>
+	<extension commit="https://github.com/symphonycms/markdown"/>
+	<extension commit="https://github.com/symphonycms/profiledevkit"/>
+	<extension commit="https://github.com/symphonycms/selectbox_link_field"/>
+	<extension commit="https://github.com/symphonycms/xssfilter"/>
+</bundle>
