@@ -1,0 +1,4 @@
+<bundle>
+  <extension commit="https://github.com/orchard-studio/imagecropper"/>
+  <extension commit="https://github.com/orchard-studio/jit_image_manipulation"/>
+</bundle>
