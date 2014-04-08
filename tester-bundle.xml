@@ -1,5 +1,4 @@
 <bundle>
-  <extension commit="https://github.com/symphonists/pagesfield"/>
   <extension commit="https://github.com/hananils/subsectionmanager"/>
   <extension commit="https://github.com/symphonists/reflectionfield"/>
 </bundle>
