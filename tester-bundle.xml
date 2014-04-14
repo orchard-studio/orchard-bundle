@@ -1,5 +1,5 @@
 <bundle>
 	<extension commit="https://github.com/orchard-studio/uniqueuploadfield"/>
 	<extension commit="https://github.com/andrewminton/codemirror"/>
-	<extension commit="https://github.com/orchard-studio/ckeditor"/>
+	<!--<extension commit="https://github.com/orchard-studio/ckeditor"/>-->
 </bundle>
